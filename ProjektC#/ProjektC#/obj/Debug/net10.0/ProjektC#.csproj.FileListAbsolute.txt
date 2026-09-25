@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\bin\Debug\net10.0\ProjektC#.exe
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\bin\Debug\net10.0\ProjektC#.deps.json
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\bin\Debug\net10.0\ProjektC#.runtimeconfig.json
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\bin\Debug\net10.0\ProjektC#.dll
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\bin\Debug\net10.0\ProjektC#.pdb
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.AssemblyInfo.cs
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.dll
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\refint\ProjektC#.dll
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.pdb
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ProjektC#.genruntimeconfig.cache
+C:\Users\filip\Desktop\ProjektC#\ProjektC#\obj\Debug\net10.0\ref\ProjektC#.dll

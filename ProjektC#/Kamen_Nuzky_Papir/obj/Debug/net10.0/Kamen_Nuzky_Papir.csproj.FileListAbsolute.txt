@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\bin\Debug\net10.0\Kamen_Nuzky_Papir.exe
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\bin\Debug\net10.0\Kamen_Nuzky_Papir.deps.json
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\bin\Debug\net10.0\Kamen_Nuzky_Papir.runtimeconfig.json
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\bin\Debug\net10.0\Kamen_Nuzky_Papir.dll
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\bin\Debug\net10.0\Kamen_Nuzky_Papir.pdb
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.AssemblyInfo.cs
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.dll
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\refint\Kamen_Nuzky_Papir.dll
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.pdb
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\Kamen_Nuzky_Papir.genruntimeconfig.cache
+C:\Users\filip\Desktop\ProjektC#\Kamen_Nuzky_Papir\obj\Debug\net10.0\ref\Kamen_Nuzky_Papir.dll
