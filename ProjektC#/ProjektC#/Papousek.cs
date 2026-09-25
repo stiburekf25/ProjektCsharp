@@ -24,6 +24,7 @@
                 if (CoUzivatelNapsal == "Franta smrdi")
                 {
                     Console.WriteLine("ne, je to nadherný chlapec");
+                    ahoj;
                 }
             }
             

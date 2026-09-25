@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#.csproj": {}
+    "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#\\ProjektC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#.csproj": {
+    "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#\\ProjektC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#\\ProjektC#.csproj",
         "projectName": "ProjektC#",
-        "projectPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#.csproj",
+        "projectPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#\\ProjektC#.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\obj\\",
+        "outputPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\ProjektC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

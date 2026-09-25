@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filip\\Desktop\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj": {}
+    "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filip\\Desktop\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj": {
+    "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filip\\Desktop\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj",
         "projectName": "Kamen_Nuzky_Papir",
-        "projectPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj",
+        "projectPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\Kamen_Nuzky_Papir\\Kamen_Nuzky_Papir.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\Kamen_Nuzky_Papir\\obj\\",
+        "outputPath": "C:\\Users\\filip\\Desktop\\ProjektC#\\ProjektC#\\Kamen_Nuzky_Papir\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
