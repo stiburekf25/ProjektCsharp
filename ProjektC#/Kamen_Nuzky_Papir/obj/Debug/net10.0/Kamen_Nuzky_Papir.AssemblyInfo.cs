@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kamen_Nuzky_Papir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20003489c8afdfce501aec0123285abbbf166cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3d386dbf74ee7737e2445d6b26fbfac2ea32d9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kamen_Nuzky_Papir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kamen_Nuzky_Papir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
