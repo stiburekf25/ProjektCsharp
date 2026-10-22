@@ -24,10 +24,12 @@ namespace Hra_VYS
 
         protected override void Initialize()
         {
-            _graphics.PreferredBackBufferWidth = 1920;
-            _graphics.PreferredBackBufferHeight = 1080;
+            _graphics.PreferredBackBufferWidth = 1600;
+            _graphics.PreferredBackBufferHeight = 900;
+            _graphics.HardwareModeSwitch = false;
             _graphics.IsFullScreen = false;
             _graphics.ApplyChanges();
+
 
             base.Initialize();
         }
@@ -65,11 +67,25 @@ namespace Hra_VYS
 
             // fullscreen jen při stisku, ne při držení
             if (klavesnice.IsKeyDown(Keys.F11) && _predchozi_klavesnice.IsKeyUp(Keys.F11))
-                _graphics.ToggleFullScreen();
-
+            {
+                if (_graphics.IsFullScreen)
+                {
+                    _graphics.PreferredBackBufferWidth = 1600;
+                    _graphics.PreferredBackBufferHeight = 900;
+                    _graphics.IsFullScreen = false;
+                }
+                else
+                {
+                    _graphics.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
+                    _graphics.PreferredBackBufferHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
+                    _graphics.IsFullScreen= true;
+                }
+                _graphics.ApplyChanges();
+            }
             _predchozi_klavesnice = klavesnice;
 
             base.Update(gameTime);
+
         }
 
         protected override void Draw(GameTime gameTime)
