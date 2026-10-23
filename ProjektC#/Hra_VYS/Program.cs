@@ -6,7 +6,7 @@ namespace _Hra_VYS
     {
         static void Main(string[] args)
         {
-            using var game = new mojehra();
+            using var game = new Mojehra();
             game.Run();
         }
     }

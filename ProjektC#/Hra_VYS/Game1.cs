@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Hra_VYS
 {
-    public class mojehra : Game
+    public class Mojehra : Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
@@ -15,7 +15,9 @@ namespace Hra_VYS
         public float _rychlost_ctverecku_hrace = 3f;
         public Vector2 _pozice_ctverecku_hrace = new Vector2(400, 200);
 
-        public mojehra()
+        Vsechny_krabice vsechny_Krabice = new Vsechny_krabice(20);
+
+        public Mojehra()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
@@ -94,6 +96,7 @@ namespace Hra_VYS
 
             _spriteBatch.Begin();
             _spriteBatch.Draw(_pixel, new Rectangle(_pozice_ctverecku_hrace.ToPoint(), _velikost_ctverecku_hrace.ToPoint()), Color.Red);
+            vsechny_Krabice.VykreslitKrabice(_spriteBatch, _pixel);
             _spriteBatch.End();
 
             base.Draw(gameTime);
